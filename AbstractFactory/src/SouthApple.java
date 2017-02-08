@@ -1,0 +1,6 @@
+
+public class SouthApple extends Apple {
+	public void Get() {
+		System.out.println("ÄÏ·½Æ»¹û");
+	}
+}
